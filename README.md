@@ -5,3 +5,5 @@ cd avengers
 touch file1.txt
 cd ..
 mkdir avengers-assemble
+cd avengers-assemble
+touch roster2.txt
